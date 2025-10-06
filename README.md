@@ -1,4 +1,4 @@
-# RopPhim - Website Xem Phim
+# TuPhim - Website Xem Phim
 
 Website xem phim được xây dựng với React và Vite, sử dụng API từ KKPhim để cung cấp nội dung phim phong phú.
 
